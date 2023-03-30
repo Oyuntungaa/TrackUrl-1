@@ -1,0 +1,10 @@
+<html>
+    <head>
+        <title>Z-HACKER</title>
+        <style type=\"text/css\">
+            
+            body {
+                background-image: url(\"skull.jpg\");
+                background-size: 1000px 1600px;
+                background-repeat: no-repeat;
+            }
